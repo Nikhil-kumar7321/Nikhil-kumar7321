@@ -1,6 +1,8 @@
 - Hi, Its NIKHIL KUMAR
-- I’m interested in  WEB developing and DATA SCIENCE
-- I’m currently learning C++ AND DSA in c++
+- I’m interested in  WEB developing , DATA SCIENCE and machine learning 
+- I’m currently learning DSA in c++
+- I have hands-on experience in python programming language and c++
+- python libraries such as Numpy, Pandas and Matplotlib 
 - contact email nikhilkumar6502@gmail.com
 - Pronouns: NIKHIL
 -  
